@@ -1,6 +1,6 @@
 {
     "backupServer":[
-        "https://raw.githubusercontent.com/datawilldo/withapi/main/raw.json"
+        "https://datawilldo.github.io/raw.json"
     ],
     "apiHost":"lgsp.tv"
 }
