@@ -1,0 +1,9 @@
+{
+    "injectJSON":{
+        "siteKey":"lgsp.tv",
+        "defaultHost":"lgsp.tv",
+        "title":"蓝光视频",
+        "webSite":"www.lgsp.tv",
+        "downloadKey":"lgsp"
+    }
+}
